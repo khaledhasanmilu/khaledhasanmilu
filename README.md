@@ -12,9 +12,10 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a CS Student and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
 - ✨ Student of life :)
+- 🎓 Studies CSE at United International University
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Head of Event at [UIU Robotics](https://www.linkedin.com/company/uiu-robotics/?lipi=urn%3Ali%3Apage%3Ad_flagship3_company_posts%3BzucEefKyR8OZXzl4orZZig%3D%3D)
 - ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/khaledhasanmilu).
