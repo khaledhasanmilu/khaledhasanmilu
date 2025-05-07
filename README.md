@@ -42,21 +42,20 @@
 <h3 align="left">Current Learning</h3>
 <ul align="left">
   <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Exploring advanced Python patterns and projects.</li>
+  <li>Improving my skills in SQA, Problem Solving and Research .</li>
 </ul>
   
 <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
-  <li><a href="https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">🔥Pulstack: Deploy your static site to S3 or GitHub in <1 min🙂</a></li>
-  <li><a href="https://dev.to/dev_kiran/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5">I Tried Out Qodo's New Embed Model Qodo-Embed-1🤯</a></li>
-  <li><a href="https://dev.to/dev_kiran/embedding-models-you-can-use-in-your-next-project-for-free-i0h">Embedding Models You Can Use in Your Next Project For Free 🚀</a></li>
+  <li><a href="https://www.linkedin.com/posts/khaledhasanmilu_aws-technology-tech-activity-7244541544978898945-hSct?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEM8xy4BYCxlezulR8Fr8RVLgqUnL9zVAjg">🔥What is AWS? 🕵️‍♂️🙂</a></li>
+  <li><a href="https://www.linkedin.com/pulse/web30-khaled-hasan-milu-qs3pc">All About Web3.0🤯</a></li>
 </ul>
 <br />
 <br />
 <br />
 <br />
-
+<br/>
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
@@ -98,8 +97,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/khaledhasanmilu/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=khaledhasanmilu&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        <a href="https://github.com/khaledhasanmilu/Data-Structure-and-Algorithm-With-CPP">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=khaledhasanmilu&repo=Data-Structure-and-Algorithm-With-CPP&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
