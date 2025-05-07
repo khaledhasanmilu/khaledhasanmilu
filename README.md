@@ -128,51 +128,11 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Elvis%20Presley&quote=Do%20something%20worth%20remembering.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -184,6 +144,10 @@
   
 <a href="mailto:kh.milu338@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="kh.milu338@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/khaledhasanmilu/" target="_blank">
+<img src="./facebook.png" width=50 height=50 alt="facebook" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://x.com/KhMilu338" target="_blank">
@@ -200,6 +164,14 @@
 
 <a href="https://www.linkedin.com/in/khaledhasanmilu/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/khaledhasanmilu/" target="_blank">
+<img src="./codforces.png" width=50 height=50 alt="codforces" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/khaledhasanmilu/" target="_blank">
+<img src="./hackerrank.png" width=50 height=50 alt="hackerrank" style="margin-bottom: 5px;" />
 </a>
 
 </div>
