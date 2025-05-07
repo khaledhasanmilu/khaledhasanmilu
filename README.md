@@ -142,7 +142,7 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:kh.milu338@gmail.com" target="_blank">
+<a href="mailto:kh.milu338@gmail.com">
 <img src="./gmail.png" width=50 height=50 alt="kh.milu338@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
