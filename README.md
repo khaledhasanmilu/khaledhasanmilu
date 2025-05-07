@@ -142,9 +142,10 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:kh.milu338@gmail.com">
-<img src="./gmail.png" width=50 height=50 alt="kh.milu338@gmail.com" style="margin-bottom: 5px;" />
+<a href="https://mail.google.com/mail/?view=cm&to=kh.milu338@gmail.com" target="_blank">
+  <img src="./gmail.png" width="50" height="50" alt="Email: kh.milu338@gmail.com" style="margin-bottom: 5px;" />
 </a>
+
 
 <a href="https://www.facebook.com/khaledhasan.milu.581/" target="_blank">
 <img src="./facebook.png" width=50 height=50 alt="facebook" style="margin-bottom: 5px;" />
