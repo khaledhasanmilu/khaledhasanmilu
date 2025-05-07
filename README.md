@@ -146,7 +146,7 @@
 <img src="./gmail.png" width=50 height=50 alt="kh.milu338@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/khaledhasanmilu/" target="_blank">
+<a href="https://www.facebook.com/khaledhasan.milu.581/" target="_blank">
 <img src="./facebook.png" width=50 height=50 alt="facebook" style="margin-bottom: 5px;" />
 </a>
 
@@ -166,11 +166,11 @@
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/khaledhasanmilu/" target="_blank">
+<a href="https://codeforces.com/profile/khaledhasan104/" target="_blank">
 <img src="./codforces.png" width=50 height=50 alt="codforces" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/khaledhasanmilu/" target="_blank">
+<a href="https://www.hackerrank.com/profile/kh_milu338/" target="_blank">
 <img src="./hackerrank.png" width=50 height=50 alt="hackerrank" style="margin-bottom: 5px;" />
 </a>
 
