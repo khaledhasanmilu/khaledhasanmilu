@@ -16,9 +16,8 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/khaledhasanmilu).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
+- 💁‍♂️ Head of Event at [UIU Robotics](https://www.linkedin.com/company/uiu-robotics/?lipi=urn%3Ali%3Apage%3Ad_flagship3_company_posts%3BzucEefKyR8OZXzl4orZZig%3D%3D)
+- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/khaledhasanmilu).
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://khaledhasanmilu.github.io/portfolio/) for more details about me. 
 <!--End Intro-->
