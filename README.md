@@ -123,12 +123,13 @@
 
 ---
 
-<!-- Dynamic Quote card updates every refresh -->  
+<!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api/random?theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
+
 
 
 
