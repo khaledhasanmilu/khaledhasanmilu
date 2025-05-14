@@ -27,7 +27,9 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=khaledhasanmilu&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="khaledhasanmilu" style="padding-right:20px;" />
 </p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledhasanmilu)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kh.milu338@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-24292e?logo=netlify&logoColor=white)](https://khaledhasanmilu.netlify.app/)
 ---
 
 
