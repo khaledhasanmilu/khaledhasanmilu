@@ -11,6 +11,11 @@
 *Digital Craftsman (Developer / Programmer / Learner)*
 <br /> 
 
+<!--portfolio link -->
+  <a href="https://khaledhasanmilu.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Live-24292e?logo=netlify&logoColor=white" alt="Portfolio" />
+</a>
+<br/>
 <!--Start Intro-->               
 <p align="left">I am a CS Student and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
@@ -20,7 +25,8 @@
 - 💁‍♂️ Senior Executive of Event at [UIU Robotics](https://www.linkedin.com/company/uiu-robotics/?lipi=urn%3Ali%3Apage%3Ad_flagship3_company_posts%3BzucEefKyR8OZXzl4orZZig%3D%3D)
 - ✍ I write technical blogs. You can visit my blog site at [DEV](https://dev.to/khaledhasanmilu).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://khaledhasanmilu.netlify.app/) for more details about me. 
+- 💻 Visit my [Portfolio](https://khaledhasanmilu.netlify.app/) for more details about me.
+
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -144,7 +150,6 @@
 <a href="https://mail.google.com/mail/?view=cm&to=kh.milu338@gmail.com" target="_blank">
   <img src="./gmail.png" width="50" height="50" alt="Email: kh.milu338@gmail.com" style="margin-bottom: 5px;" />
 </a>
-
 
 <a href="https://www.facebook.com/khaledhasan.milu.581/" target="_blank">
 <img src="./facebook.png" width=50 height=50 alt="facebook" style="margin-bottom: 5px;" />
