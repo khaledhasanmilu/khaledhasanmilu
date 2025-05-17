@@ -128,13 +128,21 @@
 </div>
 
 ---
+<!--Kanguage abd Thoughts-->
+<h2 align="center">💡 Lᴀɴɢᴜᴀɢᴇs & Tʜᴏᴜɢʜᴛs 💡</h2>
 
-<!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledhasanmilu&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" width="350" height="200" />
+      </td>
+      <td>
+        <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" width="500" height="200" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
@@ -187,9 +195,4 @@
 <a href="https://www.buymeacoffee.com/khaledhasanmilu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
-
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
 
