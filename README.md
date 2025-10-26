@@ -55,7 +55,7 @@
   
 <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
-  <li><a href="https://www.linkedin.com/posts/khaledhasanmilu_aws-technology-tech-activity-7244541544978898945-hSct?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEM8xy4BYCxlezulR8Fr8RVLgqUnL9zVAjg">🔥What is AWS and how it was works? 🕵️‍♂️🙂</a></li>
+  <li><a href="https://www.linkedin.com/posts/khaledhasanmilu_aws-technology-tech-activity-7244541544978898945-hSct?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEM8xy4BYCxlezulR8Fr8RVLgqUnL9zVAjg">🔥What is AWS? 🕵️‍♂️🙂</a></li>
   <li><a href="https://www.linkedin.com/pulse/web30-khaled-hasan-milu-qs3pc">All About Web3.0🤯</a></li>
 </ul>
 <br />
@@ -195,6 +195,7 @@
 <div align="center">
 <a href="https://www.buymeacoffee.com/khaledhasanmilu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
+
 
 
 
