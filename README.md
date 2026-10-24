@@ -205,11 +205,11 @@ $ ping khaled --purpose "internship | collaboration | open-source"
 
 <br/><br/>
 
-<!--QUOTE_START-->
+<!--STARTS_HERE_QUOTE_CARD-->
 <p align="center"><sub><code>QUOTE OF THE DAY</code></sub></p>
-<p align="center"><i>&ldquo;A bug is just a lesson in disguise.&rdquo;</i></p>
+<p align="center"><i>&ldquo;Small commits, big progress.&rdquo;</i></p>
 <p align="center"><sub>&mdash; <b>Engineering proverb</b></sub></p>
-<!--QUOTE_END-->
+<!--ENDS_HERE_QUOTE_CARD-->
 
 <a href="https://www.buymeacoffee.com/khaledhasanmilu"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-0d1117?style=flat-square&logo=buymeacoffee&logoColor=FFDD00" alt="Buy Me A Coffee"/></a>
 
