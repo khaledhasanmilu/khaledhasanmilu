@@ -1,201 +1,195 @@
-<!--Banner-->
-![khaledhasanmilu Banner Image](./banner.png)
+<!-- ============================== HEADER ============================== -->
+<div align="center">
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f0c29,50:302b63,100:24243e&text=Khaled%20Hasan%20Milu&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Machine%20Learning%20Enthusiast&descAlignY=58&descSize=16" width="100%" alt="Khaled Hasan Milu"/>
 
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ KHALED! 
-*Digital Craftsman (Developer / Programmer / Learner)*
-<br /> 
-
-<!--portfolio link -->
-  <a href="https://khaledhasanmilu.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Live-24292e?logo=netlify&logoColor=white" alt="Portfolio" />
+<a href="https://github.com/khaledhasanmilu">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+reliable+full-stack+systems;Turning+data+into+decisions+with+ML;Writing+clean%2C+testable%2C+maintainable+code;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
-<br/>
-<!--Start Intro-->               
-<p align="left">I am a CS Student and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
-- ✨ Student of life :)
-- 🎓 Studies CSE at United International University
-- 🌱 I’m currently learning many things. I believe that every day is a learning opportunity.
-- 💁‍♂️ Senior Executive of Event at [UIU Robotics](https://www.linkedin.com/company/uiu-robotics/?lipi=urn%3Ali%3Apage%3Ad_flagship3_company_posts%3BzucEefKyR8OZXzl4orZZig%3D%3D)
-- ✍ I write technical blogs. You can visit my blog site at [DEV](https://dev.to/khaledhasanmilu).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://khaledhasanmilu.vercel.app/) for more details about me.
+<br/><br/>
 
-<!--End Intro-->
+[![Portfolio](https://img.shields.io/badge/Portfolio-khaledhasanmilu.vercel.app-0f0c29?style=for-the-badge&logo=vercel&logoColor=white)](https://khaledhasanmilu.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledhasanmilu/)
+[![DEV](https://img.shields.io/badge/DEV.to-Blog-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/khaledhasanmilu)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kh.milu338@gmail.com)
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=khaledhasanmilu&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="khaledhasanmilu" style="padding-right:20px;" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=khaledhasanmilu&label=Profile%20views&color=5b21b6&style=flat-square)
+
+</div>
 
 ---
 
+## `$ whoami`
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
+```python
+class Engineer:
+    name       = "Khaled Hasan Milu"
+    education  = "B.Sc. in CSE, United International University"
+    role       = "Software Engineer in the making | ML Enthusiast"
+    leadership = "Senior Executive (Event), UIU Robotics"
 
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced Python patterns and projects.</li>
-  <li>Improving my skills in SQA, Problem Solving and Research .</li>
-</ul>
-  
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="https://www.linkedin.com/posts/khaledhasanmilu_aws-technology-tech-activity-7244541544978898945-hSct?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEM8xy4BYCxlezulR8Fr8RVLgqUnL9zVAjg">🔥What is AWS? 🕵️‍♂️🙂</a></li>
-  <li><a href="https://www.linkedin.com/pulse/web30-khaled-hasan-milu-qs3pc">All About Web3.0🤯</a></li>
-</ul>
-<br />
-<br />
-<br />
-<br />
-<br/>
+    core_skills = ["Python", "JavaScript", "React.js", "Node.js", "Django",
+                   "REST APIs", "RDBMS", "Data Visualization"]
 
+    currently_exploring = ["Machine Learning & AI", "Advanced Python patterns",
+                           "Software Quality Assurance", "Problem Solving & Research"]
 
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/khaledhasanmilu">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=khaledhasanmilu&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=khaledhasanmilu&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=khaledhasanmilu&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
+    principles = [
+        "Write code for the next person who reads it",
+        "Measure first, optimize second",
+        "Ship small, ship often, learn fast",
+        "Document decisions, not just code",
+    ]
 
-<br />
+    def __str__(self):
+        return "Every day is a learning opportunity."
+```
 
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+---
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/khaledhasanmilu">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaledhasanmilu&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/khaledhasanmilu">
-          <img align="center" src="https://streak-stats.demolab.com?user=khaledhasanmilu&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/khaledhasanmilu/Python-Beginner-to-Advanced">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=khaledhasanmilu&repo=Python-Beginner-to-Advanced&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/khaledhasanmilu">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=khaledhasanmilu&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
+## 🧭 What I Do
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🖥️ Full-Stack Development
+Designing responsive front ends with **React.js** and robust back ends with **Node.js** and **Django**, backed by well-modeled relational databases.
+
+</td>
+<td width="33%" valign="top">
+
+### 🔌 API & Data Engineering
+Building clean, documented **REST APIs**, writing efficient SQL, and turning raw data into clear, actionable **visualizations**.
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 Machine Learning
+Experimenting with ML pipelines in **Python**, from data preparation to model evaluation, with a focus on understanding over hype.
+
+</td>
+</tr>
 </table>
-<br />
 
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0f0c29?style=flat-square&logo=fastapi&logoColor=white)
+
+**Data & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Tools & Cloud**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+> Remove any badge you don't actively use, so the list stays honest.
+
+---
+
+## 🚀 Featured Project
+
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaledhasanmilu&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+
+<a href="https://github.com/khaledhasanmilu/Python-Beginner-to-Advanced">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaledhasanmilu&repo=Python-Beginner-to-Advanced&theme=tokyonight&hide_border=true&show_owner=true" alt="Python-Beginner-to-Advanced" />
+</a>
+
+</div>
+
+<!--
+  Add 2-3 of your best projects here in this format:
+
+  | Project | What it solves | Stack | Links |
+  |---|---|---|---|
+  | **Name** | One-line problem statement | React · Node · PostgreSQL | [Repo](#) · [Live](#) |
+-->
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=khaledhasanmilu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledhasanmilu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=khaledhasanmilu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khaledhasanmilu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+
 </div>
 
 ---
-<!--Kanguage abd Thoughts-->
-<h2 align="center">💡 Lᴀɴɢᴜᴀɢᴇs & Tʜᴏᴜɢʜᴛs 💡</h2>
+
+## ✍️ Writing & Community
+
+I write to learn in public and to help others get started.
+
+- 📝 [What is AWS?](https://www.linkedin.com/posts/khaledhasanmilu_aws-technology-tech-activity-7244541544978898945-hSct) — a beginner-friendly introduction to cloud computing
+- 📝 [All About Web 3.0](https://www.linkedin.com/pulse/web30-khaled-hasan-milu-qs3pc) — a practical overview of the decentralized web
+- 📚 More articles on [DEV.to](https://dev.to/khaledhasanmilu)
+- 🤖 Leading events as Senior Executive at [UIU Robotics](https://www.linkedin.com/company/uiu-robotics/)
+- 🌍 Contributing to open source whenever I can
+
+---
+
+## 🎯 Current Focus
+
+| Area | Goal |
+|---|---|
+| 🧠 Machine Learning & AI | Build and evaluate end-to-end ML projects |
+| 🐍 Advanced Python | Design patterns, performance, testing |
+| 🧪 Software Quality Assurance | Test strategy, automation, clean releases |
+| 🔍 Problem Solving & Research | Consistent practice on [Codeforces](https://codeforces.com/profile/khaledhasan104/) and [HackerRank](https://www.hackerrank.com/profile/kh_milu338/) |
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to internships, collaborations, and open-source contributions.
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledhasanmilu&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" width="350" height="200" />
-      </td>
-      <td>
-        <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" width="500" height="200" />
-      </td>
-    </tr>
-  </table>
-</div>
 
+<a href="https://www.linkedin.com/in/khaledhasanmilu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/khaledhasanmilu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:kh.milu338@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://x.com/KhMilu338"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://www.facebook.com/khaledhasan.milu.581/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.instagram.com/khm_milu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://codeforces.com/profile/khaledhasan104/"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+<a href="https://www.hackerrank.com/profile/kh_milu338/"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
 
+<br/><br/>
 
+<a href="https://www.buymeacoffee.com/khaledhasanmilu"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"/></a>
 
+<br/><br/>
 
-
-
-<!--Contact Section--> 
-
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
-  
-<a href="https://mail.google.com/mail/?view=cm&to=kh.milu338@gmail.com" target="_blank">
-  <img src="./gmail.png" width="50" height="50" alt="Email: kh.milu338@gmail.com" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.facebook.com/khaledhasan.milu.581/" target="_blank">
-<img src="./facebook.png" width=50 height=50 alt="facebook" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://x.com/KhMilu338" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/khm_milu/" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.githubcom/khaledhasanmilu/" target="_blank">
-<img src="./github.png" width=50 height=50 alt="khaledhasanmilu" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/khaledhasanmilu/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://codeforces.com/profile/khaledhasan104/" target="_blank">
-<img src="./codforces.png" width=50 height=50 alt="codforces" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/kh_milu338/" target="_blank">
-<img src="./hackerrank.png" width=50 height=50 alt="hackerrank" style="margin-bottom: 5px;" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:24243e,50:302b63,100:0f0c29&section=footer" width="100%" alt="footer"/>
 
 </div>
-<br/>
-
-<!--Buy me a coffee-->
-<div align="center">
-<a href="https://www.buymeacoffee.com/khaledhasanmilu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
-
-
-
-
