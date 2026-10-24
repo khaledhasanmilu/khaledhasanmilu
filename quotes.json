@@ -1,32 +1,122 @@
 [
-  {"text": "Talk is cheap. Show me the code.", "author": "Linus Torvalds"},
-  {"text": "Premature optimization is the root of all evil.", "author": "Donald Knuth"},
-  {"text": "Simplicity is prerequisite for reliability.", "author": "Edsger W. Dijkstra"},
-  {"text": "First, solve the problem. Then, write the code.", "author": "John Johnson"},
-  {"text": "Make it work, make it right, make it fast.", "author": "Kent Beck"},
-  {"text": "Programs must be written for people to read, and only incidentally for machines to execute.", "author": "Harold Abelson"},
-  {"text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.", "author": "Martin Fowler"},
-  {"text": "Code is like humor. When you have to explain it, it's bad.", "author": "Cory House"},
-  {"text": "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.", "author": "Antoine de Saint-Exupéry"},
-  {"text": "The best way to predict the future is to invent it.", "author": "Alan Kay"},
-  {"text": "Before software can be reusable it first has to be usable.", "author": "Ralph Johnson"},
-  {"text": "The only way to go fast is to go well.", "author": "Robert C. Martin"},
-  {"text": "Software is eating the world.", "author": "Marc Andreessen"},
-  {"text": "A journey of a thousand miles begins with a single step.", "author": "Lao Tzu"},
-  {"text": "Experience is the name everyone gives to their mistakes.", "author": "Oscar Wilde"},
-  {"text": "Fix the cause, not the symptom.", "author": "Steve Maguire"},
-  {"text": "Walking on water and developing software from a specification are easy if both are frozen.", "author": "Edward V. Berard"},
-  {"text": "Talk about what you built, not what you plan to build.", "author": "Engineering proverb"},
-  {"text": "Consistency beats intensity. Ship a little every day.", "author": "Engineering proverb"},
-  {"text": "Debug with curiosity, not frustration.", "author": "Engineering proverb"},
-  {"text": "Small commits, big progress.", "author": "Engineering proverb"},
-  {"text": "Every expert was once a beginner who refused to quit.", "author": "Engineering proverb"},
-  {"text": "Read code every day. Write code every day. Repeat.", "author": "Engineering proverb"},
-  {"text": "A bug is just a lesson in disguise.", "author": "Engineering proverb"},
-  {"text": "Build things. Break things. Learn things.", "author": "Engineering proverb"},
-  {"text": "Great engineers are made by solving hard problems, one at a time.", "author": "Engineering proverb"},
-  {"text": "Stay curious. The best code starts with a good question.", "author": "Engineering proverb"},
-  {"text": "Progress, not perfection.", "author": "Engineering proverb"},
-  {"text": "Learn in public. Teach what you know. Grow faster.", "author": "Engineering proverb"},
-  {"text": "Your future self will thank you for writing clean code today.", "author": "Engineering proverb"}
+  {
+    "quote": "Talk is cheap. Show me the code.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "quote": "Premature optimization is the root of all evil.",
+    "author": "Donald Knuth"
+  },
+  {
+    "quote": "Simplicity is prerequisite for reliability.",
+    "author": "Edsger W. Dijkstra"
+  },
+  {
+    "quote": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson"
+  },
+  {
+    "quote": "Make it work, make it right, make it fast.",
+    "author": "Kent Beck"
+  },
+  {
+    "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "author": "Harold Abelson"
+  },
+  {
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author": "Martin Fowler"
+  },
+  {
+    "quote": "Code is like humor. When you have to explain it, it's bad.",
+    "author": "Cory House"
+  },
+  {
+    "quote": "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.",
+    "author": "Antoine de Saint-Exupéry"
+  },
+  {
+    "quote": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay"
+  },
+  {
+    "quote": "Before software can be reusable it first has to be usable.",
+    "author": "Ralph Johnson"
+  },
+  {
+    "quote": "The only way to go fast is to go well.",
+    "author": "Robert C. Martin"
+  },
+  {
+    "quote": "Software is eating the world.",
+    "author": "Marc Andreessen"
+  },
+  {
+    "quote": "A journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu"
+  },
+  {
+    "quote": "Experience is the name everyone gives to their mistakes.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "quote": "Fix the cause, not the symptom.",
+    "author": "Steve Maguire"
+  },
+  {
+    "quote": "Walking on water and developing software from a specification are easy if both are frozen.",
+    "author": "Edward V. Berard"
+  },
+  {
+    "quote": "Talk about what you built, not what you plan to build.",
+    "author": "Engineering proverb"
+  },
+  {
+    "quote": "Consistency beats intensity. Ship a little every day.",
+    "author": "Engineering proverb"
+  },
+  {
+    "quote": "Debug with curiosity, not frustration.",
+    "author": "Engineering proverb"
+  },
+  {
+    "quote": "Small commits, big progress.",
+    "author": "Engineering proverb"
+  },
+  {
+    "quote": "Every expert was once a beginner who refused to quit.",
+    "author": "Engineering proverb"
+  },
+  {
+    "quote": "Read code every day. Write code every day. Repeat.",
+    "author": "Engineering proverb"
+  },
+  {
+    "quote": "A bug is just a lesson in disguise.",
+    "author": "Engineering proverb"
+  },
+  {
+    "quote": "Build things. Break things. Learn things.",
+    "author": "Engineering proverb"
+  },
+  {
+    "quote": "Great engineers are made by solving hard problems, one at a time.",
+    "author": "Engineering proverb"
+  },
+  {
+    "quote": "Stay curious. The best code starts with a good question.",
+    "author": "Engineering proverb"
+  },
+  {
+    "quote": "Progress, not perfection.",
+    "author": "Engineering proverb"
+  },
+  {
+    "quote": "Learn in public. Teach what you know. Grow faster.",
+    "author": "Engineering proverb"
+  },
+  {
+    "quote": "Your future self will thank you for writing clean code today.",
+    "author": "Engineering proverb"
+  }
 ]
