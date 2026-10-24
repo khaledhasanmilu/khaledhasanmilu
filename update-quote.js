@@ -13,8 +13,8 @@ async function updateQuote() {
 
     const cardDesign = `<!--STARTS_HERE_QUOTE_CARD-->
 <p align="center"><sub><code>QUOTE OF THE DAY</code></sub></p>
-<p align="center"><i>&ldquo;${escapeHtml(quote)}&rdquo;</i></p>
-<p align="center"><sub>&mdash; <b>${escapeHtml(author)}</b></sub></p>
+<h3 align="center"><i>&ldquo;${escapeHtml(quote)}&rdquo;</i></h3>
+<p align="center">&mdash; <b>${escapeHtml(author)}</b></p>
 <!--ENDS_HERE_QUOTE_CARD-->`;
 
     const readmePath = './README.md';
