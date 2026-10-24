@@ -168,7 +168,11 @@ flowchart TB
 
 <img src="https://streak-stats.demolab.com?user=khaledhasanmilu&theme=tokyonight&background=0d1117&hide_border=true" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khaledhasanmilu&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="activity"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khaledhasanmilu/khaledhasanmilu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khaledhasanmilu/khaledhasanmilu/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/khaledhasanmilu/khaledhasanmilu/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -210,6 +214,8 @@ $ ping khaled --purpose "internship | collaboration | open-source"
 <p align="center"><i>&ldquo;Small commits, big progress.&rdquo;</i></p>
 <p align="center"><sub>&mdash; <b>Engineering proverb</b></sub></p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
+<a href="https://www.buymeacoffee.com/khaledhasanmilu"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-0d1117?style=flat-square&logo=buymeacoffee&logoColor=FFDD00" alt="Buy Me A Coffee"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=90&color=0:0d1117,50:1f1147,100:0d1117&section=footer" width="100%" alt="footer"/>
 
