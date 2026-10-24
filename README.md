@@ -10,7 +10,6 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-1f1147?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://khaledhasanmilu.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/khaledhasanmilu/)
-[![DEV](https://img.shields.io/badge/DEV.TO-BLOG-0d1117?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/khaledhasanmilu)
 [![Mail](https://img.shields.io/badge/MAIL-HIRE%20ME-1f1147?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kh.milu338@gmail.com)
 
 ![views](https://komarev.com/ghpvc/?username=khaledhasanmilu&label=SYSTEM%20VISITS&color=1f1147&style=flat-square)
@@ -180,10 +179,9 @@ flowchart TB
 ```text
 [POST] What is AWS?          -> cloud computing, explained simply
 [POST] All About Web 3.0     -> a practical look at the decentralized web
-[MORE] dev.to/khaledhasanmilu
 ```
 
-[Read: What is AWS?](https://www.linkedin.com/posts/khaledhasanmilu_aws-technology-tech-activity-7244541544978898945-hSct) | [Read: Web 3.0](https://www.linkedin.com/pulse/web30-khaled-hasan-milu-qs3pc) | [All articles on DEV](https://dev.to/khaledhasanmilu)
+[Read: What is AWS?](https://www.linkedin.com/posts/khaledhasanmilu_aws-technology-tech-activity-7244541544978898945-hSct) | [Read: Web 3.0](https://www.linkedin.com/pulse/web30-khaled-hasan-milu-qs3pc)
 
 <br/>
 
