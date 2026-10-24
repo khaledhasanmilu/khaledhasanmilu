@@ -207,13 +207,22 @@ $ ping khaled --purpose "internship | collaboration | open-source"
 <a href="https://www.facebook.com/khaledhasan.milu.581/"><img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>
 <a href="https://www.instagram.com/khm_milu/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
 
-<br/><br/>
+</div>
+
+<br/>
+
+## `~/motivation`
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center"><sub><code>QUOTE OF THE DAY</code></sub></p>
-<p align="center"><i>&ldquo;Small commits, big progress.&rdquo;</i></p>
-<p align="center"><sub>&mdash; <b>Engineering proverb</b></sub></p>
+<h3 align="center"><i>&ldquo;Small commits, big progress.&rdquo;</i></h3>
+<p align="center">&mdash; <b>Engineering proverb</b></p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
+<br/>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=venom&height=90&color=0:0d1117,50:1f1147,100:0d1117&section=footer" width="100%" alt="footer"/>
 
 </div>
